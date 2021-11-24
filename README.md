@@ -10,3 +10,5 @@ Not tested yet.
 
 
    ![Audio Tool Graph](https://raw.githubusercontent.com/DmaEvilCorp/PT2399_Arduino/main/Hammond_Case.png) 
+
+   ![Audio Tool Graph](https://raw.githubusercontent.com/DmaEvilCorp/PT2399_Arduino/main/Schematic.png) 
