@@ -7,3 +7,6 @@ Use a low cost PT2399 board.
 - Variation between a min and a max time value (speed control).
 
 Not tested yet.
+
+
+   ![Audio Tool Graph](https://raw.githubusercontent.com/DmaEvilCorp/PT2399_Arduino/main/Hammond_Case.png) 
